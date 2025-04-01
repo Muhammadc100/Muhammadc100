@@ -25,13 +25,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
-      - env:
+      - name: Debug
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - name: Debug
-  run: |
-    echo "GITHUB_TOKEN: $GITHUB_TOKEN"
-    echo "github_user_name: Muhammadc100"
-    echo "gif_out_path: dist/github-contribution-grid-snake.gif"
-    echo "svg_out_path: dist/github-contribution-grid-snake.svg"
-
-
+        run: |
+          echo "GITHUB_TOKEN: $GITHUB_TOKEN"
+          echo "github_user_name: Muhammadc100"
+          echo "gif_out_path: dist/github-contribution-grid-snake.gif"
+          echo "svg_out_path: dist/github-contribution-grid-snake.svg"
