@@ -26,10 +26,10 @@ jobs:
           branch: output
           force: true
       - name: Debug
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "GITHUB_TOKEN: $GITHUB_TOKEN"
           echo "github_user_name: Muhammadc100"
           echo "gif_out_path: dist/github-contribution-grid-snake.gif"
           echo "svg_out_path: dist/github-contribution-grid-snake.svg"
+          ls -al
+          git status
+          git log --oneline
