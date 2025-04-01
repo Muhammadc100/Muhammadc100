@@ -27,5 +27,11 @@ jobs:
           force: true
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # You can add commands here that use the GITHUB_TOKEN environment variable
+        - name: Debug
+  run: |
+    echo "GITHUB_TOKEN: $GITHUB_TOKEN"
+    echo "github_user_name: Muhammadc100"
+    echo "gif_out_path: dist/github-contribution-grid-snake.gif"
+    echo "svg_out_path: dist/github-contribution-grid-snake.svg"
+
+
