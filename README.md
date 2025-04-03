@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, & React to create engaging and interactive web experiences.**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
 - 📝 I regularly write articles on [Frontend Development, Web Design & UI/UX, and Problem-Solving—sharing tips, best practices, and tutorials on HTML, CSS, JavaScript, and creating engaging user experiences.](Frontend Development, Web Design & UI/UX, and Problem-Solving—sharing tips, best practices, and tutorials on HTML, CSS, JavaScript, and creating engaging user experiences.)
 
 - 💬 Ask me about **JavaScript, React, Redux, Tailwindcss, HTML5, CSS3**
