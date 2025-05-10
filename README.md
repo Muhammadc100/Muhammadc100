@@ -36,3 +36,6 @@
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Muhammadc100&theme=radical" alt="GitHub Streak" width="450px"/> <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammadc100&show_icons=true&theme=radical" alt="muhammadc100" width="450px" />
 </p>
+
+
+![snake gif](https://github.com/Muhammadc100/Muhammadc100/blob/output/github-snake-dark.svg)
