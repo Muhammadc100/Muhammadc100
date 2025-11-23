@@ -27,7 +27,7 @@
 
 <h3 align="left">Teach Stack & Tools</h3> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,tailwindcss,git,redux,vite,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,nodejs,mongodb,cpp,tailwindcss,git,redux,vite,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats  
