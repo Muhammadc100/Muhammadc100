@@ -1,4 +1,4 @@
-<img align="Center" alt="banner"  src="https://media.istockphoto.com/id/1167600197/th/%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2.jpg?s=612x612&w=0&k=20&c=GFR0PsLOS3xQ3WiAsGCzM1xVhQtjrKzSyip8wesKYPA=" width="1000px">
+<img align="Center" alt="banner"  src="https://camo.githubusercontent.com/874c54d0f2679f2a0dc3ef5c2ba125df69abc35854210b8a8a91e747dae89b60/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f35313335303233393236375f353435363037363365365f622e6a7067" width="1000px">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Muhammad+Asad;Passionate+Web+Developer;Learning+Advanced+Web+Development;Open+Source+Contributor+🚀" alt="Typing Animation">
 </p>
