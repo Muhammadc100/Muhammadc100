@@ -5,19 +5,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadc100&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadc100" /> </p>
 <img align="right" alt="coding" width=400 src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif">
 
-- 🔭 I’m currently learning **JavaScript, React, Redux**
+- 🔭 **Aspiring Full Stack Developer | MERN Stack**  
+  Skilled in **React, Redux, Node.js, Express, MongoDB, Tailwind CSS** | Building **responsive, interactive, and user-friendly web apps** through personal projects and internship experience.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, & React to create engaging and interactive web experiences.**
+- 🌱 **Currently Learning:** Advanced **JavaScript, React, Redux, Node.js, TypeScript**, and exploring **Next.js** to create scalable web applications.
 
-- 📝 I regularly write articles on [Frontend Development, Web Design & UI/UX, and Problem-Solving—sharing tips, best practices, and tutorials on HTML, CSS, JavaScript, and creating engaging user experiences.](Frontend Development, Web Design & UI/UX, and Problem-Solving—sharing tips, best practices, and tutorials on HTML, CSS, JavaScript, and creating engaging user experiences.)
+- 📝 **I regularly write about:** [Frontend & Full Stack Development, Web Design, UI/UX, and Problem-Solving](#) — sharing tips, best practices, tutorials, and insights on building **modern, engaging web experiences**.
 
-- 💬 Ask me about **JavaScript, React, Redux, Tailwindcss, HTML5, CSS3**
+- 💬 **Ask me about:** JavaScript, React, Redux, Node.js, Express, MongoDB, Tailwind CSS, TypeScript, PostgreSQL, and web application best practices.
 
-- 📫 You can reach me at **muhammadasadazeem861@gmail.com**
+- 📫 **Reach me at:** [muhammadasadazeem861@gmail.com](mailto:muhammadasadazeem861@gmail.com)
 
-- 📄 Explore my work on [GitHub](GitHub)
+- 📄 **Check out my work:** [GitHub](https://github.com/Muhammadc100)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ **Fun fact:** I think I’m funny 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
