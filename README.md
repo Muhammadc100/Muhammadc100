@@ -1,6 +1,6 @@
 <img align="Center" alt="banner"  src="https://camo.githubusercontent.com/874c54d0f2679f2a0dc3ef5c2ba125df69abc35854210b8a8a91e747dae89b60/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f35313335303233393236375f353435363037363365365f622e6a7067" width="1000px">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Muhammad+Asad;Passionate+Web+Developer;Learning+Advanced+Web+Development;Open+Source+Contributor+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Muhammad+Asad;Passionate+Mern+Stack+Developer;Learning+Advanced+Web+Technologies;Open+Source+Contributor+🚀" alt="Typing Animation">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadc100&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadc100" /> </p>
 <img align="right" alt="coding" width=400 src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif">
